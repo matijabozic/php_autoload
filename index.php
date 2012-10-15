@@ -2,7 +2,7 @@
 	
 	// Include Autoload
 	
-	require_once('../system/Core/Autoload/Autoload.php');
+	require_once('src/Core/Autoload/Autoload.php');
 	
 	// Register class autoloading for PSR-0 compatible libraries	
 	
