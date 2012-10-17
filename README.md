@@ -1,6 +1,6 @@
 ## About ##
 
-This is PSR0 compatible class loader. By default it loads PSR0 compatible libraries that use PHP namespace separator <code>\</code>, but can also load PEAR libraries that use underscore <code>_</code> as namespace separator.
+This is PSR0 compatible class loader. By default it loads PSR0 compatible libraries that use PHP namespace separator <code>\\</code>, but can also load PEAR libraries that use underscore <code>_</code> as namespace separator.
 
 ## Usage ##
 
