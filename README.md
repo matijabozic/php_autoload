@@ -60,7 +60,7 @@ $pear->addLibrary('/path/to/vendor/', 'Twig');
 $pear->register();
 </pre>
 
-Note that register method can take boolean argument, true or false, witch tells Autoloader should this autoloader be prepended to autoload stack. Default is false and loader is appended, if set to true autoloader would be prepended. This basicly tells autoload stack in wich order to execute registered loaders.
+Note that register method can take boolean argument, true or false, which tells Autoloader should this autoloader be prepended to autoload stack. Default is false and loader is appended, if set to true autoloader would be prepended. This tells autoload stack in which order to execute registered loaders.
 
 ## Future development ##
 
